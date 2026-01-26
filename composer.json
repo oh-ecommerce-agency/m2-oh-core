@@ -1,6 +1,6 @@
 {
     "name": "m2-oh/module-core",
-    "description": "OH eCommerce Agency - Core Module",
+    "description": "OH Digital Agency - Core Module",
     "type": "magento2-module",
     "require": {
         "php": ">=7.3",
