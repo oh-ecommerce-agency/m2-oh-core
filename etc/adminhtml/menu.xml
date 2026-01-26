@@ -9,16 +9,5 @@
              sortOrder="50"
              resource="OH_Core::core"
         />
-
-        <add id="OH_Core::docs"
-             title="Docs"
-             module="OH_Core"
-             sortOrder="0"
-             translate="title"
-             parent="OH_Core::oh"
-             target="_blank"
-             action="oh_core/docs/index"
-             resource="OH_Core::core"
-        />
     </menu>
 </config>
