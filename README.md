@@ -1,4 +1,4 @@
-## OH eCommerce Agency core module.
+## OH Digital Agency core module.
 
 ### Installation
 
