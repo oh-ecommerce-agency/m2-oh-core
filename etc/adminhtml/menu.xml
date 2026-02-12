@@ -3,7 +3,7 @@
         xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
         <add id="OH_Core::oh"
-             title="OH eCom"
+             title="OH"
              module="OH_Core"
              translate="title"
              sortOrder="50"
